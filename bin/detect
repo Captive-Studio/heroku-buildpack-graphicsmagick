@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "GraphicsMagick"
+exit 0
